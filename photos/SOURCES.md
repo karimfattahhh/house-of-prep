@@ -3,7 +3,7 @@
 From `~/Downloads/House Of Prep_New/Visuals` (Karim, 2026-11-02: "add a human element … community and family-centric
 feeling"). Chosen so that none repeats a photo already on the TestPrep website (matched by image fingerprint, so
 resized copies count, plus the originals named in that site's SOURCES.md) and no two are near-identical frames.
-Each appears once on this site. Resized to 1600 px (ring photos 1200 px), re-encoded, every EXIF/XMP/GPS segment dropped. Checked for
+Each appears once on this site. Resized to 1600 px (the 45 gallery photos to 720 px, enough for a 243 px card on a retina screen), re-encoded, every EXIF/XMP/GPS segment dropped. Checked for
 legible names, scores and screens; a photo with a named event backdrop and one with score screens were left out.
 
 | File | Original | Where |
@@ -56,3 +56,12 @@ legible names, scores and screens; a photo with a named event backdrop and one w
 | life-35.jpg | IMG_9467.HEIC | Life in the house ring |
 | life-36.jpg | IMG_9819.JPG | Life in the house ring |
 | life-37.jpg | IMG_9958.HEIC | Life in the house ring |
+| brand-elmy.jpg | IMG_5131.HEIC | Our brands, Elmy tile |
+| brand-prepme.jpg | IMG_4936.HEIC | Our brands, PrepMe tile |
+| brand-weguide.jpg | IMG_0551.HEIC | Our brands, WeGuide tile (an instructor at a whiteboard; moved from TestPrep at Karim's request, 2026-11-03) |
+| brand-testprep.jpg | photo Karim sent in chat, 2026-11-03 (1600×1065) | Our brands, TestPrep wide tile: the team with students at the Lycée National Schools Universities' Forum 2026. Karim chose it himself, named backdrop included. Fingerprint closest to the TestPrep site's instructor-and-students (distance 9), checked by eye: a different photo |
+
+Our brands tiles (2026-11-03) also carry study-pair.jpg (Taleb), freed when the intro collage was dropped; class-group.jpg and fair-mentor.jpg are kept but no longer shown (Karim: do not use fair-mentor for WeGuide) (Karim asked for a new TestPrep visual, 2026-11-03). All five brand-tile photos are full-resolution exports (long side up to 3200 px, JPEG quality 86) so the wide TestPrep tile stays sharp on retina screens (Karim, 2026-11-03).
+| story-hallway.jpg | IMG_6450.HEIC | Our story panel (third print) |
+| story-lounge.jpg | IMG_6044.HEIC | Our story panel |
+| story-friends.jpg | IMG_1656.HEIC | Our story panel |
