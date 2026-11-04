@@ -62,6 +62,6 @@ legible names, scores and screens; a photo with a named event backdrop and one w
 | brand-testprep.jpg | photo Karim sent in chat, 2026-11-03 (1600×1065) | Our brands, TestPrep wide tile: the team with students at the Lycée National Schools Universities' Forum 2026. Karim chose it himself, named backdrop included. Fingerprint closest to the TestPrep site's instructor-and-students (distance 9), checked by eye: a different photo |
 
 Our brands tiles (2026-11-03) also carry study-pair.jpg (Taleb), freed when the intro collage was dropped; class-group.jpg and fair-mentor.jpg are kept but no longer shown (Karim: do not use fair-mentor for WeGuide) (Karim asked for a new TestPrep visual, 2026-11-03). All five brand-tile photos are full-resolution exports (long side up to 3200 px, JPEG quality 86) so the wide TestPrep tile stays sharp on retina screens (Karim, 2026-11-03).
-| story-hallway.jpg | IMG_6450.HEIC | Our story panel (third print) |
-| story-lounge.jpg | IMG_6044.HEIC | Our story panel |
-| story-friends.jpg | IMG_1656.HEIC | Our story panel |
+| story-birthday.jpg | photo Karim sent in chat, 2026-11-04 (768×1024) | Our story panel |
+| story-celebration.jpg | photo Karim sent in chat, 2026-11-04 (1125×2000) | Our story panel |
+| story-playtime.jpg | photo Karim sent in chat, 2026-11-04 (768×1024) | Our story panel |
