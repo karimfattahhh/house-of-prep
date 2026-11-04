@@ -57,7 +57,7 @@ legible names, scores and screens; a photo with a named event backdrop and one w
 | life-36.jpg | IMG_9819.JPG | Life in the house ring |
 | life-37.jpg | IMG_9958.HEIC | Life in the house ring |
 | brand-elmy.jpg | IMG_5131.HEIC | Our brands, Elmy tile |
-| brand-prepme.jpg | IMG_4936.HEIC | Our brands, PrepMe tile |
+| brand-prepme-team.jpg | the team photo Karim sent in chat (2026-11-04, birthday at the office), cropped closer to the group | Our brands, PrepMe tile (replaces brand-prepme.jpg from IMG_4936.HEIC) |
 | brand-weguide.jpg | IMG_0551.HEIC | Our brands, WeGuide tile (an instructor at a whiteboard; moved from TestPrep at Karim's request, 2026-11-03) |
 | brand-testprep.jpg | photo Karim sent in chat, 2026-11-03 (1600×1065) | Our brands, TestPrep wide tile: the team with students at the Lycée National Schools Universities' Forum 2026. Karim chose it himself, named backdrop included. Fingerprint closest to the TestPrep site's instructor-and-students (distance 9), checked by eye: a different photo |
 
