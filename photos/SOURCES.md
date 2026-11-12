@@ -65,3 +65,8 @@ Our brands tiles (2026-11-03) also carry study-pair.jpg (Taleb), freed when the 
 | story-birthday.jpg | photo Karim sent in chat, 2026-11-04 (768×1024) | Our story panel |
 | story-celebration.jpg | photo Karim sent in chat, 2026-11-04 (1125×2000) | Our story panel |
 | story-playtime.jpg | photo Karim sent in chat, 2026-11-04 (768×1024) | Our story panel |
+| brand-weguide-maya-centre.jpg | ~/code/weguide-presentation/assets/img/weguide-maya-plate.jpg (WeGuide's claymation key visual, no text): Maya lifted out with tools/cutout.swift and set at 52% height, bottom centre, on the empty left of the same campus, 1600×1600 | Our brands, WeGuide tile (Karim, 2026-11-12) |
+| brand-testprep-collage.jpg | a collage of TestPrep moments Karim sent in chat (2026-11-12), cropped past the screen's top bar, a Slides button and a bot icon; 1851×1091 | Our brands, TestPrep tile (replaces brand-testprep.jpg). Karim chose it himself; it may show photos also used on the TestPrep site |
+| brand-prepme-group.jpg | brand-prepme-team.jpg cropped to the group (0,20)–(1000,900), less floor | Our brands, PrepMe tile (Karim, 2026-11-12) |
+| brand-prepme-group-hd.jpg | brand-prepme-group.jpg upscaled 2× (Lanczos) with two gentle unsharp passes, 2000×1760 — sharper on retina screens, no invented detail (Karim, 2026-11-12: "enhance the resolution"; an AI upscale would need credits and his go) | Our brands, PrepMe tile |
+| brand-taleb-house.jpg | the Taleb house visual Karim sent in chat (2026-11-12), 960×1280, re-encoded | Our brands, Taleb tile (replaces study-pair.jpg) |
