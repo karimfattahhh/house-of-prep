@@ -1,6 +1,6 @@
 # Photos on the group site
 
-From `~/Downloads/House Of Prep_New/Visuals` (Karim, 2026-11-02: "add a human element … community and family-centric
+From `~/Library/CloudStorage/GoogleDrive-karimfattah14@gmail.com/My Drive/05 House of Prep/01 TestPrep/03 Visuals & Media/Photos by month` (Karim, 2026-11-02: "add a human element … community and family-centric
 feeling"). Chosen so that none repeats a photo already on the TestPrep website (matched by image fingerprint, so
 resized copies count, plus the originals named in that site's SOURCES.md) and no two are near-identical frames.
 Each appears once on this site. Resized to 1600 px (the 45 gallery photos to 720 px, enough for a 243 px card on a retina screen), re-encoded, every EXIF/XMP/GPS segment dropped. Checked for
