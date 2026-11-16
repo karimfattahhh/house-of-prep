@@ -70,3 +70,19 @@ Our brands tiles (2026-11-03) also carry study-pair.jpg (Taleb), freed when the 
 | brand-prepme-group.jpg | brand-prepme-team.jpg cropped to the group (0,20)–(1000,900), less floor | Our brands, PrepMe tile (Karim, 2026-11-12) |
 | brand-prepme-group-hd.jpg | brand-prepme-group.jpg upscaled 2× (Lanczos) with two gentle unsharp passes, 2000×1760 — sharper on retina screens, no invented detail (Karim, 2026-11-12: "enhance the resolution"; an AI upscale would need credits and his go) | Our brands, PrepMe tile |
 | brand-taleb-house.jpg | the Taleb house visual Karim sent in chat (2026-11-12), 960×1280, re-encoded | Our brands, Taleb tile (replaces study-pair.jpg) |
+| spaces-centre-session.jpg | 02 Taleb/03 Visuals & Media/Photos & visuals/IMG_6743.JPG | Our spaces, the modern centre (lead) — V3, 2026-11-15 |
+| spaces-centre-tutor.jpg | Photos by month/2025-11/IMG_5668.HEIC (the gallery's life-21; the gallery is off the page) | Our spaces, the modern centre (detail) |
+| spaces-taleb-room.jpg | 02 Taleb/…/Photos & visuals/Taleb visual – 11.png | Our spaces, the Taleb house (lead); a visual, to be replaced by an approved photograph |
+| spaces-taleb-detail.jpg | 02 Taleb/…/Photos & visuals/Taleb visual – 22.png | Our spaces, the Taleb house (detail); as above |
+| how-colleagues.jpg | 02 Taleb/…/Photos & visuals/IMG_7121.JPG, cropped to the two colleagues | How we work, Human Expertise |
+| how-weguide-journey.jpg | ~/code/weguide-presentation/assets/img/weguide-journey.jpg | How we work, Strong Systems (with elmy-reports-clean.webp over it) |
+| how-community.jpg | 02 Taleb/…/Photos & visuals/IMG_7431.JPG | How we work, Welcoming Community |
+| people-group.jpg | 02 Taleb/…/Photos & visuals/c5b402c4-fea5-415d-895b-1cfbfb344828.JPG | Our people, the group photograph |
+
+V3 photos (2026-11-15): resized to 1600 px on the long side, re-encoded (no EXIF), fingerprint-checked against the TestPrep
+site's files (none there). All stand in for the "original, approved photos" Nizar's handoff asks for.
+
+Removed 2026-11-15 (evening): how-colleagues.jpg and how-weguide-journey.jpg — How we work's first two visuals are drawn now.
+| how-expertise.jpg | the former brand-weguide.jpg (a colleague at a planning whiteboard), 1100 px | How we work, Human Expertise (2026-11-16) |
+| how-systems.webp | 04 Elmy/02 Brand & Design/Figma screens/1. Performance.png, cropped to the page content | How we work, Strong Systems (2026-11-16) |
+| how-expertise-board.jpg | 02 Taleb/…/Photos & visuals/122535C0-1393-48A7-92B1-5B7C3B1FF841.JPG, 4:3 crop, 1400 px | How we work, Human Expertise (replaces how-expertise.jpg, 2026-11-16) |
