@@ -86,3 +86,10 @@ Removed 2026-11-15 (evening): how-colleagues.jpg and how-weguide-journey.jpg —
 | how-expertise.jpg | the former brand-weguide.jpg (a colleague at a planning whiteboard), 1100 px | How we work, Human Expertise (2026-11-16) |
 | how-systems.webp | 04 Elmy/02 Brand & Design/Figma screens/1. Performance.png, cropped to the page content | How we work, Strong Systems (2026-11-16) |
 | how-expertise-board.jpg | 02 Taleb/…/Photos & visuals/122535C0-1393-48A7-92B1-5B7C3B1FF841.JPG, 4:3 crop, 1400 px | How we work, Human Expertise (replaces how-expertise.jpg, 2026-11-16) |
+
+Changed 2026-11-16 (night), at Karim's word:
+| how-expertise.jpg | git history: the former brand-weguide.jpg (Karim beside the planning whiteboard), cropped closer, 1400 px | How we work, Human Expertise (put back; replaces how-expertise-board.jpg, removed) |
+| how-systems-dashboard.webp | 04 Elmy/02 Brand & Design/Figma screens/1. Dashboard.png, top 1000 px, 960 px wide | How we work, Strong Systems (front screen) |
+| how-systems-attendance.webp | …/Figma screens/1. Classroom- Attendace.png, 820 px wide | How we work, Strong Systems (behind, left) |
+| how-systems-exam.webp | …/Figma screens/1. Track Exam.png, 820 px wide | How we work, Strong Systems (behind, right) |
+Removed: how-systems.webp (the single Performance screen). The three ELMY screens carry the design team's sample names and figures.
